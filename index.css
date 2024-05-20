@@ -61,7 +61,7 @@ html{
   min-height: 100vh;
 display: flex;
 align-items: center;
-background: rgba(0,0,0,0.6) url('../Img/hero.jpg');
+background: rgba(0,0,0,0.6) url('Img/hero.jpg');
 background-blend-mode: darken;
 background-repeat: no-repeat;
 background-size: cover;
